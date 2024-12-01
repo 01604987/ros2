@@ -1,3 +1,7 @@
 [submodule "src/micro-ROS-Agent"]
 	path = src/micro-ROS-Agent
 	url = https://github.com/micro-ROS/micro-ROS-Agent.git
+[submodule "src/ROS-TCP-Endpoint-main-ros2"]
+	path = src/ROS-TCP-Endpoint-main-ros2
+	url = https://github.com/Unity-Technologies/Unity-Robotics-Hub.git
+	branch = main-ros2

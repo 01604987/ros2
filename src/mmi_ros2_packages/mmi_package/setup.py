@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'rotary_listener = mmi_package.rotary_subscriber:main',
-            'rotary_btn_listener = mmi_package.rotary_btn_subscriber:main'
+            'rotary_btn_listener = mmi_package.rotary_btn_subscriber:main',
+            'audio_input_filterer = mmi_package.audio_input_filter_node:main'
         ],
     },
 )
