@@ -28,3 +28,9 @@ adjust serial port or use UDP protocols for network
     - `git fetch/pull/commit/push`
     - `cd <root folder>`
     - `git commit`
+
+
+## new guide here
+https://micro.ros.org/docs/tutorials/core/teensy_with_arduino/
+and 
+https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/ros_unity_integration/setup.md
